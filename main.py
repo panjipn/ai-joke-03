@@ -10,8 +10,8 @@ deterministic: every run writes exactly the same bytes.
 import os
 import sys
 
-SETUP = "My coding agent said the refactor was done."
-PUNCHLINE = "The code is identical — it just has more comments now."
+SETUP = "I asked my coding agent to make the smallest change it could."
+PUNCHLINE = "It changed one line — in every file."
 
 JOKE = SETUP + " " + PUNCHLINE
 
